@@ -7,3 +7,7 @@
 <p>Tela para cadastro de novas vagas:</p>
 
 ![telaCadastro](https://user-images.githubusercontent.com/76002553/179812268-b1e22b7d-c2d3-4961-a8c1-802121874725.png)
+
+<p>Por último, a base de dados do exemplo anterior:</p>
+
+![dados](https://user-images.githubusercontent.com/76002553/179812997-a58baa15-c3ac-4796-85d4-e8cc25685293.png)
