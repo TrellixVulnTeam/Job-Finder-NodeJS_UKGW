@@ -1,5 +1,5 @@
 <h1>Projeto Job finder</h1>
-<small>Script para iniciar é, no terminal: npm run dev</small>
+<small>Script para iniciar - no terminal: npm run dev</small>
 <p>Este projeto consiste em um sistema de vagas para pessoas da área de TI e foi desenvolvido com Node, Express, Sequeliza, além do banco de dados Sqlite</p>
 <p>Tela principal com buscador de vagas funcional e vagas já adicionadas ao BD:</p>
 
